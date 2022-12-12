@@ -56,3 +56,8 @@ body {
 .textureSelect img.active {
   border: 2px solid red
 }
+
+.menu {
+  top: 10px;
+  left: 10px
+}
