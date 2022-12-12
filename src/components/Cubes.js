@@ -6,7 +6,6 @@ export const Cubes = () => {
     const [cubes] = useStore((state)=>[
         state.cubes
     ])
-    console.log(cubes)
     return cubes.map(({key,position, texture})=>(
         <Cube key={key} position={position} texture={texture} />
     ))
