@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MinecraftClone/static/css/main.11047ee1.chunk.css",
+    "main.js": "/MinecraftClone/static/js/main.923eb5f0.chunk.js",
+    "main.js.map": "/MinecraftClone/static/js/main.923eb5f0.chunk.js.map",
+    "runtime-main.js": "/MinecraftClone/static/js/runtime-main.0a6fc08a.js",
+    "runtime-main.js.map": "/MinecraftClone/static/js/runtime-main.0a6fc08a.js.map",
+    "static/js/2.b1fea072.chunk.js": "/MinecraftClone/static/js/2.b1fea072.chunk.js",
+    "static/js/2.b1fea072.chunk.js.map": "/MinecraftClone/static/js/2.b1fea072.chunk.js.map",
+    "index.html": "/MinecraftClone/index.html",
+    "static/css/main.11047ee1.chunk.css.map": "/MinecraftClone/static/css/main.11047ee1.chunk.css.map",
+    "static/js/2.b1fea072.chunk.js.LICENSE.txt": "/MinecraftClone/static/js/2.b1fea072.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a6fc08a.js",
+    "static/js/2.b1fea072.chunk.js",
+    "static/css/main.11047ee1.chunk.css",
+    "static/js/main.923eb5f0.chunk.js"
+  ]
+}
