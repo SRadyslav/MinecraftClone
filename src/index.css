@@ -48,3 +48,11 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.textureSelect {
+  transform: scale(5);
+}
+
+.textureSelect img.active {
+  border: 2px solid red
+}
